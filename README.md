@@ -25,15 +25,17 @@ WeatherApp is a web application that provides weather information for different 
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
-## Usage
+## How to Use?
 1. Open your web browser and navigate to `http://localhost:3000`
 2. Enter the name of a city or country in the search bar
 3. Click the search button or press Enter to view the weather information for the specified location
 4. Scroll through the card view to see weather details for the desired location
 
 ## Credits
-- Weather data provided by OpenWeatherMap API: [https://openweathermap.org/](https://openweathermap.org/)
-- Background photo by [Unsplash](https://unsplash.com/)
+Weather data provided by OpenWeatherMap API: [https://openweathermap.org/](https://openweathermap.org/)
+
+## Contributions
+Welcome for the contributions! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
